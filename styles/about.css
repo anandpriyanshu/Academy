@@ -1,0 +1,12 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  color: white;
+
+  & h1 {
+    font-size: 70px;
+  }
+}
